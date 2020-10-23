@@ -3,3 +3,4 @@ devtools::install_version("mosaic",version="0.14.4", repos = "http://cran.us.r-p
 devtools::install_version("readr", "1.1.1", repos = "https://cloud.r-project.org")
 devtools::install_github("mangoTheCat/visualTest")
 devtools::install_github("mobilizingcs/mobilizr", upgrade = FALSE)
+library(mobilizr)
